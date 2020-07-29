@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+🔭 I work on projects involving ML, data science and other cool stuff.  
+🌱 Currently learning golang for it's concurrency and c++ to be better at competitive programming  
+💻 I'm in my 3rd of a CS degree   
+<p align="center">
+  <a href="https://github.com/neilbotelho"><img src="https://img.shields.io/github/followers/neilbotelho.svg?label=GitHub&style=social" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/neilbotelho"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
 <!--
 **NeilBotelho/NeilBotelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
