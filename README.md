@@ -1,7 +1,10 @@
-### Hi there 👋
+<h3 align="center"> Hi there 👋</h3>
+<p align="center">
 🔭 I work on projects involving ML, data science and other cool stuff.  
 🌱 Currently learning golang for it's concurrency and c++ to be better at competitive programming  
 💻 I'm in my 3rd of a CS degree   
+</p>
+
 <p align="center">
   <a href="https://github.com/neilbotelho"><img src="https://img.shields.io/github/followers/neilbotelho.svg?label=GitHub&style=social" alt="GitHub"></a>
   <a href="https://linkedin.com/in/neilbotelho"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
