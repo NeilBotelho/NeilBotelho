@@ -1,8 +1,8 @@
 <h3 align="center"> Hi there 👋</h3>
 <p align="center">
 🔭 I work on projects involving ML, data science and other cool stuff.  <br>
-🌱 Currently learning golang for it's concurrency and c++ to be better at competitive programming  <br>
-💻 I'm in my 3rd of a CS degree   
+<!-- 🌱 Currently learning golang for it's concurrency and c++ to be better at competitive programming  <br> -->
+💻 I'm in my 3rd year of a CS degree   
 </p>
 
 <p align="center">
