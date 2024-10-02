@@ -1,6 +1,7 @@
 <h3 align="center"> Hi there 👋</h3>
 <p align="center">
 🔭 I work on projects involving ML, data science and other cool stuff.  <br>
+  I'm also (irregularly) maintaining a blog of my favourite projects <a href="https://www.neilbotelho.com/blog/">here</a>
 <!-- 🌱 Currently learning golang for it's concurrency and c++ to be better at competitive programming  <br> --> 
 </p>
 
